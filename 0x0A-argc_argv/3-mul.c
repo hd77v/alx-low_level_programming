@@ -46,6 +46,7 @@ return (n);
  * @argv: array of arguments
  * Return: 0 (Success), 1 (Error)
  */
+
 int main(int argc, char *argv[])
 {
 int result, num1, num2;
