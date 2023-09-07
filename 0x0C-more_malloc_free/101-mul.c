@@ -96,4 +96,3 @@ _putchar('\n');
 free(result);
 return (0);
 }
-
